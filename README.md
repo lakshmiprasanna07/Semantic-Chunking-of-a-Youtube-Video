@@ -6,7 +6,7 @@ It performs the semantic chunking on a youtube video by extracting the audio and
 1.Run the development server:   ***python manage.py runserver***       
 2.Access the application in your web browser at http://localhost:8000. 
 #### Contributing  
-If you would like to contribute to the project, please connect with the user. 
+If you would like to contribute to the project, please contact lakshmiprasanna.lp07@gmail.com. 
 
 #### License  
 This project is licensed under the MIT License.  
